@@ -1,0 +1,16 @@
+ First Name: mahesh
+ Last Name: kumar
+ Address: arilova
+ City: vizag
+ State: ap
+ Zipcode: 530040
+ PhoneNO: 6303186275
+ Email: mahesh@gmail.com
+ First Name: surya
+ Last Name: kiran
+ Address: chinnagadili
+ City: vizag
+ State: ap
+ Zipcode: 530056
+ PhoneNO: 867579788
+ Email: surya@gmail.com
