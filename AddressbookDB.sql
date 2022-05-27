@@ -56,4 +56,7 @@ mysql> UPDATE addressbook SET city = 'bangalore' WHERE firstName = 'madhukar' AN
 Query OK, 1 row affected (0.01 sec)
 Rows matched: 1  Changed: 1  Warnings: 0
 
-    
+------------------------UC5_DeleteExistingContactByName.sql----------------------------------------------
+    mysql> DELETE FROM addressbook WHERE firstName = 'mahesh' AND lastName ='tippanu';
+Query OK, 0 rows affected (0.01 sec)
+
